@@ -91,7 +91,7 @@ I'm a software developer with a strong foundation in **Java**, **Python**, and *
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshitrajarya)  
-- 🌐 [Portfolio Website](https://hraportfolio.vercel.app/)  
+- 🌐 [Portfolio Website](https://harshitrajarya.vercel.app/)  
 - 📧 harshitrajarya@gmail.com  
 
 ---
